@@ -107,7 +107,7 @@ UIAspectRatioConstraint_5.AspectRatio = 4.289
 
 textanot.Name = "textanot"
 textanot.Parent = textarea
-textanot.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+textanot.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
 textanot.BackgroundTransparency = 1.000
 textanot.BorderColor3 = Color3.fromRGB(0, 0, 0)
 textanot.BorderSizePixel = 0

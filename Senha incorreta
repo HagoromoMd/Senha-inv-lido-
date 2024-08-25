@@ -1,5 +1,5 @@
 
--
+
 -- Gui to Lua
 -- Version: 3.2
 
@@ -135,6 +135,6 @@ while tick() < endTime do
     wait(0.1) -- Atualize o tamanho a cada 0.1 segundo (você pode ajustar esse valor conforme necessário)
 end
 
--- Agora que o tempo acabou, você pode esconder e remover a notificação
+-- gora que o tempo acabou, você pode esconder e remover a notificação
 div1.Visible = false
 backNOT:Destroy() -- Isso remove o frame completamente

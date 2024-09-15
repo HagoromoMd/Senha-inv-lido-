@@ -124,7 +124,7 @@ UIAspectRatioConstraint_6.Parent = textanot
 UIAspectRatioConstraint_6.AspectRatio = 5.080
 UIAspectRatioConstraint_6.DominantAxis = Enum.DominantAxis.Height
 
-local duration = 3 -- Duração da notificação em segundos
+local duration = 2 -- Duração da notificação em segundos
 local endTime = tick() + duration
 
 while tick() < endTime do

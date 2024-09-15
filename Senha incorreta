@@ -23,7 +23,7 @@ local UIAspectRatioConstraint_6 = Instance.new("UIAspectRatioConstraint")
 -- Properties:
 
 notfic.Name = "notfic"
-notfic.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+notfic.Parent = game:GetService("CoreGui")
 notfic.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 backNOT.Name = "backNOT"
